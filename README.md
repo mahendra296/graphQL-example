@@ -1,1 +1,1 @@
-# graphQL-demo
+# graphQL-example
