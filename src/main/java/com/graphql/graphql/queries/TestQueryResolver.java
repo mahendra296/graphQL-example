@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class TestQueryResolver implements GraphQLQueryResolver {
-    public String getString(){
-        return "Hello";
-    }
+  public String getString() {
+    return "Hello";
+  }
 }
