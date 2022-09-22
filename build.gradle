@@ -48,3 +48,7 @@ tasks.named('test') {
 tasks.named("googleJavaFormat") {
 	googleJavaFormat
 }
+
+tasks.named("verifyGoogleJavaFormat") {
+	verifyGoogleJavaFormat
+}
